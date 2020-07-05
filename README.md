@@ -9,3 +9,5 @@
 <p>print_index.java contains print_index class in which print method is defined.</p>
 <p>ssum.java contains ssum class under which sum and sub_sum methods are defined.</p>
 <p>search.java contains search class in which search_pattern method is defined to find that the string contains pattern or not.</p>
+<h2>SAMPLE OUTPUT:</h2>
+<a href="https://ibb.co/znRpTMH"><img src="https://i.ibb.co/mDqkVjF/rabin-karpimg10.jpg" alt="rabin-karpimg10" border="0"></a>
